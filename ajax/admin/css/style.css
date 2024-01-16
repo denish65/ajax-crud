@@ -1,0 +1,107 @@
+
+
+
+
+
+.form-control {
+    display: block;
+    width: 80%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group
+{
+    width: 80%;
+
+}
+
+
+.container #form,.container h2
+{
+margin-left: 300px;
+
+
+}
+
+
+.formid
+{
+    width: 80%;
+    margin-left: 300px;
+}
+
+.user
+{
+    width: 960px;
+    background-color: lightblue;
+    height: 200px;
+}
+
+
+.con{
+    width: 960px;
+    position: relative;
+    left: 50px;
+    font-size: 15px;
+    color: black;
+    
+  }
+  .con table
+  {
+    width: 960px;
+  }
+  .con table ,.con td,.con th
+  {
+    border: 1px solid black;
+  }
+  .con table td,th
+  {
+    padding: 5px;
+  }
+.aid{
+  float: right;
+  position: absolute;
+  right: 200px;
+  top: 200px;
+  color: black;
+}
+.aid img
+{
+  border-radius:  50%;
+
+}
+.aid ul li {
+
+  display: inline-block;
+
+}
+.btn-warning
+{
+    display: none;
+}
+
+
+.m
+  {
+    position: relative;
+    top: -45px;
+    right: 10px;
+    background-color: transparent !important;
+    border: none;
+  }
+
+
+  footer
+  {
+     position: relative;
+     top: 295px !important;
+  }
+

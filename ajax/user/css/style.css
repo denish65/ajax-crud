@@ -1,0 +1,123 @@
+
+
+
+
+.form-control {
+    display: block;
+    width: 80%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group
+{
+    width: 80%;
+
+}
+
+
+.container #form,.container h2
+{
+margin-left: 300px;
+
+
+}
+
+
+.formid
+{
+    width: 80%;
+    margin-left: 300px;
+}
+
+.user
+{
+    width: 600px;
+    background-color: rgb(245, 232, 223);
+    height: 400px;
+    padding: 20px;
+    border-radius: 10px;
+   
+}
+
+
+
+ footer
+  {
+    position: relative;
+    top: 200px;
+  }
+  .id
+  {
+    float: right;
+    position: relative;
+    top: 10px;
+    right: 200px;
+  }
+  .id ul li
+  {
+    display: inline-block;
+
+  }
+  .id img
+  {
+    border-radius: 50%;
+  }
+  .body
+  {
+    color: black;
+  }
+
+
+  .user 
+  {
+    position: relative;
+    top: 100px;
+    margin: 0 auto;
+  }
+
+
+  .utable th,.utable td
+   {
+    padding: 2px;
+
+  }
+
+  .btn-danger
+  {
+    display: none;
+  }
+
+  .btn-warning
+  {
+    background-color: transparent;
+    border: none;
+  }
+  
+  .btn-warning:hover
+{
+  background-color: transparent;
+    border: none;
+  
+}
+
+  .m
+  {
+    position: relative;
+    top: -45px;
+    right: 10px;
+    
+  }
+
+ 
+  .cate
+  {
+    display: none !important;
+  }
